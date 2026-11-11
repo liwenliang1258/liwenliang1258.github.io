@@ -1,5 +1,5 @@
 {
-  "version": "0.1.7+20",
+  "version": "0.1.8+23",
   "minShell": 1,
   "channel": "stable",
   "assets": {
@@ -26,5 +26,5 @@
     "relay.glb": 64056,
     "sky.png": 842453
   },
-  "builtAt": "2026-11-11T05:21:45.079Z"
+  "builtAt": "2026-11-11T06:00:33.687Z"
 }
