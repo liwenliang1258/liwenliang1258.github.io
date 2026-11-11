@@ -1,0 +1,30 @@
+{
+  "version": "0.1.7+20",
+  "minShell": 1,
+  "channel": "stable",
+  "assets": {
+    "catalog.json": "static/catalog.c06eafcc.json",
+    "custom/.gitkeep": "static/custom/.gitkeep.e3b0c442",
+    "drone.glb": "static/drone.0f5e568a.glb",
+    "gun.glb": "static/gun.47fad77d.glb",
+    "hand.glb": "static/hand.88483364.glb",
+    "hound.glb": "static/hound.cfac13d8.glb",
+    "level.glb": "static/level.04ddf572.glb",
+    "level.json": "static/level.dfea2eb2.json",
+    "relay.glb": "static/relay.f7cdd06b.glb",
+    "sky.png": "static/sky.87672891.png"
+  },
+  "sizes": {
+    "catalog.json": 1652,
+    "custom/.gitkeep": 0,
+    "drone.glb": 71912,
+    "gun.glb": 60620,
+    "hand.glb": 23720,
+    "hound.glb": 81704,
+    "level.glb": 7053100,
+    "level.json": 9066,
+    "relay.glb": 64056,
+    "sky.png": 842453
+  },
+  "builtAt": "2026-11-11T05:21:45.079Z"
+}

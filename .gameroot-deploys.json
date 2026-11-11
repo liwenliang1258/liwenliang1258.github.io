@@ -1,0 +1,28 @@
+[
+ {
+  "build": "0.1.7-b20",
+  "at": "2026-11-11T05:22:44.126Z",
+  "files": [
+   ".nojekyll",
+   "assets/index-uWbTrX5h.js",
+   "icons/icon-192.png",
+   "icons/icon-512.png",
+   "icons/icon-maskable-512.png",
+   "index.html",
+   "manifest.webmanifest",
+   "static/catalog.c06eafcc.json",
+   "static/custom/.gitkeep.e3b0c442",
+   "static/drone.0f5e568a.glb",
+   "static/gun.47fad77d.glb",
+   "static/hand.88483364.glb",
+   "static/hound.cfac13d8.glb",
+   "static/level.04ddf572.glb",
+   "static/level.dfea2eb2.json",
+   "static/relay.f7cdd06b.glb",
+   "static/sky.87672891.png",
+   "sw.js",
+   "version.json",
+   "_headers"
+  ]
+ }
+]

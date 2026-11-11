@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "models": {
+    "level.harbor": {
+      "file": "level.glb",
+      "kind": "level",
+      "materials": "unlit",
+      "note": "静态场景，光照已烘焙进顶点色；配套数据见 data.level.harbor"
+    },
+    "weapon.lz9": {
+      "file": "gun.glb",
+      "kind": "weapon",
+      "note": "理志九式突击步枪；原点在握把，枪口朝 -Z"
+    },
+    "enemy.hound": {
+      "file": "hound.glb",
+      "kind": "enemy.quadruped",
+      "note": "机械猎犬；原点在四腿之间的地面，朝 -Z"
+    },
+    "enemy.drone": {
+      "file": "drone.glb",
+      "kind": "enemy.flyer",
+      "note": "机械飞鸥；原点在机身中心，朝 -Z"
+    },
+    "prop.relay": {
+      "file": "relay.glb",
+      "kind": "prop.relay",
+      "note": "上行中继站；原点在底座中心的地面"
+    },
+    "player.offhand": {
+      "file": "hand.glb",
+      "kind": "player.hand",
+      "note": "副手手套；原点在握持位置"
+    }
+  },
+  "textures": {
+    "sky.harbor": { "file": "sky.png", "srgb": true }
+  },
+  "data": {
+    "level.harbor": "level.json"
+  },
+  "fx": {
+    "tracer": { "color": "#ffc46a", "intensity": 2.5, "width": 0.012, "length": 3.0, "speed": 380 },
+    "sparks": { "color": "#ffb060", "size": 0.035, "lifetime": 0.45 },
+    "explosion": { "color": "#ffb070", "intensity": 3.0, "size": 1.0 },
+    "muzzleFlash": { "color": "#ffc070", "size": 0.16, "duration": 0.035 },
+    "enemyBolt": { "coreColor": "#ff4ad8", "coreIntensity": 3.0, "trailColor": "#ff40c8", "size": 0.07 },
+    "extractionBeacon": { "color": "#33ff99", "opacity": 0.18 }
+  },
+  "sounds": {
+    "rifle_shot": null
+  }
+}

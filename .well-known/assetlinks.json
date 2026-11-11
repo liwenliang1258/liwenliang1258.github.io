@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lizhi.vrshoot",
+      "sha256_cert_fingerprints": [
+        "4E:BA:0B:2E:12:BC:A8:6D:1E:1B:77:87:C4:B4:09:96:5C:6C:EC:1D:60:20:28:22:16:D4:C8:A6:5A:B7:65:D3"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lizhi.vrshoot.pico",
+      "sha256_cert_fingerprints": [
+        "4E:BA:0B:2E:12:BC:A8:6D:1E:1B:77:87:C4:B4:09:96:5C:6C:EC:1D:60:20:28:22:16:D4:C8:A6:5A:B7:65:D3"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lizhi.vrshoot.openxr",
+      "sha256_cert_fingerprints": [
+        "4E:BA:0B:2E:12:BC:A8:6D:1E:1B:77:87:C4:B4:09:96:5C:6C:EC:1D:60:20:28:22:16:D4:C8:A6:5A:B7:65:D3"
+      ]
+    }
+  }
+]
